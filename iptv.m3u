@@ -26,9 +26,25 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTVLCOPT:http-referrer=
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 channel-id="US004" tvg-id="US004" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-chno="4" group-title="US",Nickelodeon PlutoTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-referrer=
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
+#EXTINF:-1 channel-id="US005" tvg-id="US005" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/500px-Discovery_Turbo_logo.svg.png" tvg-chno="5" group-title="US",Discovery Turbo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-referrer=
+https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
+
 ##AU##
 
-#EXTINF:-1 channel-id="AU001" tvg-id="AU001" tvg-logo="https://i.imgur.com/h1ejU90.png" tvg-chno="4" group-title="AU",MovieSphereAU
+#EXTINF:-1 channel-id="AU001" tvg-id="AU001" tvg-logo="https://i.imgur.com/h1ejU90.png" tvg-chno="6" group-title="AU",MovieSphereAU
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -36,7 +52,7 @@ https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 
-#EXTINF:-1 channel-id="AU002" tvg-id="AU002" tvg-logo="https://10.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png?image-profile=logo" tvg-chno="5" group-title="AU",Adult Animation
+#EXTINF:-1 channel-id="AU002" tvg-id="AU002" tvg-logo="https://10.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png?image-profile=logo" tvg-chno="7" group-title="AU",Adult Animation
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -46,7 +62,7 @@ https://dai.google.com/linear/hls/pb/event/Zl5ydKUnSqeFRzy__9h95g/stream/d408c61
 
 ##NZ##
 
-#EXTINF:-1 channel-id="NZ001" tvg-id="NZ001" tvg-logo="https://i.mjh.nz/.images/rush-nz.png" tvg-chno="6" group-title="NZ",Rush
+#EXTINF:-1 channel-id="NZ001" tvg-id="NZ001" tvg-logo="https://i.mjh.nz/.images/rush-nz.png" tvg-chno="8" group-title="NZ",Rush
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -54,7 +70,7 @@ https://dai.google.com/linear/hls/pb/event/Zl5ydKUnSqeFRzy__9h95g/stream/d408c61
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/rush-nz.m3u8
 
-#EXTINF:-1 channel-id="NZ002" tvg-id="NZ002" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/fast1/logos/default.png" tvg-chno="7" group-title="NZ",Warner Bros TV Motorheads
+#EXTINF:-1 channel-id="NZ002" tvg-id="NZ002" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/fast1/logos/default.png" tvg-chno="9" group-title="NZ",Warner Bros TV Motorheads
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -62,7 +78,7 @@ https://i.mjh.nz/.r/rush-nz.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-fast1.m3u8
 
-#EXTINF:-1 channel-id="NZ003" tvg-id="NZ003" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/ptms/logos/default.png" tvg-chno="9" group-title="NZ",MovieSphereNZ
+#EXTINF:-1 channel-id="NZ003" tvg-id="NZ003" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/ptms/logos/default.png" tvg-chno="10" group-title="NZ",MovieSphereNZ
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -70,7 +86,7 @@ https://i.mjh.nz/.r/sky-fast1.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-ptms.m3u8
 
-#EXTINF:-1 channel-id="NZ004" tvg-id="NZ004" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptmb/logos/default.png" tvg-chno="10" group-title="NZ",MythBusters
+#EXTINF:-1 channel-id="NZ004" tvg-id="NZ004" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptmb/logos/default.png" tvg-chno="11" group-title="NZ",MythBusters
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
