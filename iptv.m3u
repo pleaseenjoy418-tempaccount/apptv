@@ -42,7 +42,7 @@ https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlis
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/10-adultanimation.m3u8
+https://dai.google.com/linear/hls/pb/event/Zl5ydKUnSqeFRzy__9h95g/stream/d408c616-37fa-43a5-8e29-e58ab7bea4f0:TPE2/master.m3u8
 
 ##NZ##
 
@@ -62,3 +62,18 @@ https://i.mjh.nz/.r/rush-nz.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-fast1.m3u8
 
+#EXTINF:-1 channel-id="NZ003" tvg-id="NZ003" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/ptms/logos/default.png" tvg-chno="9" group-title="NZ",MovieSphereNZ
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-ptms.m3u8
+
+#EXTINF:-1 channel-id="NZ004" tvg-id="NZ004" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptmb/logos/default.png" tvg-chno="10" group-title="NZ",MythBusters
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-ptmb.m3u8
