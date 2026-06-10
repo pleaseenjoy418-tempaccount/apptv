@@ -36,9 +36,17 @@ https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 
+#EXTINF:-1 channel-id="AU002" tvg-id="AU002" tvg-logo="https://10.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png?image-profile=logo" tvg-chno="5" group-title="AU",Adult Animation
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-adultanimation.m3u8
+
 ##NZ##
 
-#EXTINF:-1 channel-id="NZ001" tvg-id="NZ001" tvg-logo="https://i.mjh.nz/.images/rush-nz.png" tvg-chno="5" group-title="NZ",Rush
+#EXTINF:-1 channel-id="NZ001" tvg-id="NZ001" tvg-logo="https://i.mjh.nz/.images/rush-nz.png" tvg-chno="6" group-title="NZ",Rush
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -46,7 +54,7 @@ https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlis
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/rush-nz.m3u8
 
-#EXTINF:-1 channel-id="NZ002" tvg-id="NZ002" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/fast1/logos/default.png" tvg-chno="6" group-title="NZ",Warner Bros TV Motorheads
+#EXTINF:-1 channel-id="NZ002" tvg-id="NZ002" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/fast1/logos/default.png" tvg-chno="7" group-title="NZ",Warner Bros TV Motorheads
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
