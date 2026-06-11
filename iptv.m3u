@@ -29,10 +29,10 @@ https://raw.githubusercontent.com/pleaseenjoy418-tempaccount/apptv/refs/heads/ma
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=96.45.46.46
 #EXTVLCOPT:http-referrer=
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+https://raw.githubusercontent.com/pleaseenjoy418-tempaccount/apptv/refs/heads/main/nick.m3u8
 
 
-#EXTINF:-1 channel-id="nickelodeonplutoUS" tvg-id="nickelodeonplutoUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Nick_-_Pluto_TV.svg/revision/latest?cb=20210629162143" group-title="Kids",Nickelodeon PlutoTV
+#EXTINF:-1 channel-id="nickelodeonplutoUS" tvg-id="nickelodeonplutoUS" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon PlutoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
