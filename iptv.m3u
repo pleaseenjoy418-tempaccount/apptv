@@ -21,7 +21,7 @@ https://i.mjh.nz/.r/rush-nz.m3u8
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=96.45.46.46
 #EXTVLCOPT:http-referrer=
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+https://raw.githubusercontent.com/pleaseenjoy418-tempaccount/apptv/refs/heads/main/cn.m3u8
 
 #EXTINF:-1 channel-id="nickelodeonUS" tvg-id="nickelodeonUS" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
