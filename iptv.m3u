@@ -29,13 +29,13 @@ https://raw.githubusercontent.com/pleaseenjoy418-tempaccount/apptv/refs/heads/ma
 
 
 ##Kids##
-##132.145.108.223##
+##96.45.46.46##
 
 #EXTINF:-1 channel-id="cartoonnetworkUS" tvg-id="cartoonnetworkUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=96.45.46.46
+#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=132.145.108.223
 #EXTVLCOPT:http-referrer=
 https://raw.githubusercontent.com/pleaseenjoy418-tempaccount/apptv/refs/heads/main/cn.m3u8
 
@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/pleaseenjoy418-tempaccount/apptv/refs/heads/ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=96.45.46.46
+#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=132.145.108.223
 #EXTVLCOPT:http-referrer=
 https://raw.githubusercontent.com/pleaseenjoy418-tempaccount/apptv/refs/heads/main/nick.m3u8
 
