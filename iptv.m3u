@@ -11,6 +11,22 @@
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/rush-nz.m3u8
 
+#EXTINF:-1 channel-id="aljazeeraNZ" tvg-id="aljazeeraNZ" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" group-title="NZChannels",Rush
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive
+#EXTVLCOPT:http-referrer=
+https://raw.githubusercontent.com/pleaseenjoy418-tempaccount/apptv/refs/heads/main/jazeera.m3u8
+
+#EXTINF:-1 channel-id="bravoNZ" tvg-id="bravoNZ" tvg-logo="https://i.mjh.nz/.images/bravo.png" group-title="NZChannels",Rush
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream.adaptive
+#EXTVLCOPT:http-referrer=
+https://raw.githubusercontent.com/pleaseenjoy418-tempaccount/apptv/refs/heads/main/bravo.m3u8
+
 
 ##Kids##
 ##132.145.108.223##
