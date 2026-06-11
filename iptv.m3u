@@ -3,15 +3,7 @@
 
 ##NZChannels##
 
-#EXTINF:-1 channel-id="adultanimationAU" tvg-id="adultanimationAU" tvg-logo="https://10.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png?image-profile=logo" tvg-chno="1" group-title="NZChannels",Adult Animation
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=45.248.78.99
-#EXTVLCOPT:http-referrer=
-https://dai.google.com/linear/hls/pb/event/Zl5ydKUnSqeFRzy__9h95g/stream/d408c616-37fa-43a5-8e29-e58ab7bea4f0:TPE2/master.m3u8
-
-#EXTINF:-1 channel-id="rushNZ" tvg-id="rushNZ" tvg-logo="https://i.mjh.nz/.images/rush-nz.png" tvg-chno="2" group-title="NZChannels",Rush
+#EXTINF:-1 channel-id="rushNZ" tvg-id="rushNZ" tvg-logo="https://i.mjh.nz/.images/rush-nz.png" group-title="NZChannels",Rush
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -21,25 +13,26 @@ https://i.mjh.nz/.r/rush-nz.m3u8
 
 
 ##Kids##
+##132.145.108.223##
 
-#EXTINF:-1 channel-id="cartoonnetworkUS" tvg-id="cartoonnetworkUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-chno="3" group-title="Kids",Cartoon Network
+#EXTINF:-1 channel-id="cartoonnetworkUS" tvg-id="cartoonnetworkUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=132.145.108.223
+#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=96.45.46.46
 #EXTVLCOPT:http-referrer=
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 channel-id="nickelodeonUS" tvg-id="nickelodeonUS" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-chno="4" group-title="Kids",Nickelodeon
+#EXTINF:-1 channel-id="nickelodeonUS" tvg-id="nickelodeonUS" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=132.145.108.223
+#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=96.45.46.46
 #EXTVLCOPT:http-referrer=
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
 
-#EXTINF:-1 channel-id="nickelodeonplutoUS" tvg-id="nickelodeonplutoUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Nick_-_Pluto_TV.svg/revision/latest?cb=20210629162143" tvg-chno="5" group-title="Kids",Nickelodeon PlutoTV
+#EXTINF:-1 channel-id="nickelodeonplutoUS" tvg-id="nickelodeonplutoUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Nick_-_Pluto_TV.svg/revision/latest?cb=20210629162143" group-title="Kids",Nickelodeon PlutoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -50,7 +43,7 @@ https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 
 ##Series##
 
-#EXTINF:-1 channel-id="mythbustersNZ" tvg-id="mythbustersNZ" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptmb/logos/default.png" tvg-chno="6" group-title="Series",MythBusters
+#EXTINF:-1 channel-id="mythbustersNZ" tvg-id="mythbustersNZ" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptmb/logos/default.png" group-title="Series",MythBusters
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -58,7 +51,7 @@ https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-ptmb.m3u8
 
-#EXTINF:-1 channel-id="hardcorepawnNZ" tvg-id="hardcorepawnNZ" tvg-logo="https://www.pngkey.com/png/detail/294-2943306_hardcore-pawn-image-hardcore-pawn.png" tvg-chno="7" group-title="Series",Hardcore Pawn
+#EXTINF:-1 channel-id="hardcorepawnNZ" tvg-id="hardcorepawnNZ" tvg-logo="https://www.pngkey.com/png/detail/294-2943306_hardcore-pawn-image-hardcore-pawn.png" group-title="Series",Hardcore Pawn
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -66,7 +59,7 @@ https://i.mjh.nz/.r/sky-ptmb.m3u8
 #EXTVLCOPT:http-referrer=
 https://amg00627-banijay-amg00627c8-samsung-nz-1828.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-samsungnz/playlist.m3u8
 
-#EXTINF:-1 channel-id="iceroadtruckersUS" tvg-id="iceroadtruckersUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Ice_Road_Truckers.png/revision/latest?cb=20230814012018" tvg-chno="8" group-title="Series",Ice Road Truckers
+#EXTINF:-1 channel-id="iceroadtruckersUS" tvg-id="iceroadtruckersUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Ice_Road_Truckers.png/revision/latest?cb=20230814012018" group-title="Series",Ice Road Truckers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -74,7 +67,7 @@ https://amg00627-banijay-amg00627c8-samsung-nz-1828.playouts.now.amagi.tv/playli
 #EXTVLCOPT:http-referrer=
 https://d2kvsjfwnt7hv3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c8zmnfacbz0fp/v1/aenetworks_iceroadtruckers_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 channel-id="highwaythruhellNZ" tvg-id="highwaythruhellNZ" tvg-logo="https://api-images.channel5.com/otis/images/episode/C5526820007/720x400.png" tvg-chno="9" group-title="Series",Highway Thru Hell
+#EXTINF:-1 channel-id="highwaythruhellNZ" tvg-id="highwaythruhellNZ" tvg-logo="https://api-images.channel5.com/otis/images/episode/C5526820007/720x400.png" group-title="Series",Highway Thru Hell
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -85,7 +78,7 @@ https://amg00627-amg00627c15-samsung-nz-2900.playouts.now.amagi.tv/playlist/amg0
 
 ##Cars##
 
-#EXTINF:-1 channel-id="motorheadsWBTVNZ" tvg-id="motorheadsWBTVNZ" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/fast1/logos/default.png" tvg-chno="10" group-title="Cars",Warner Bros TV Motorheads
+#EXTINF:-1 channel-id="motorheadsWBTVNZ" tvg-id="motorheadsWBTVNZ" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/fast1/logos/default.png" group-title="Cars",Warner Bros TV Motorheads
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -93,7 +86,7 @@ https://amg00627-amg00627c15-samsung-nz-2900.playouts.now.amagi.tv/playlist/amg0
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-fast1.m3u8
 
-#EXTINF:-1 channel-id="discoveryturboUS" tvg-id="discoveryturboUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/500px-Discovery_Turbo_logo.svg.png" tvg-chno="11" group-title="Cars",Discovery Turbo
+#EXTINF:-1 channel-id="discoveryturboUS" tvg-id="discoveryturboUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/500px-Discovery_Turbo_logo.svg.png" group-title="Cars",Discovery Turbo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -104,7 +97,7 @@ https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
 
 ##Movies##
 
-#EXTINF:-1 channel-id="moviesphereNZ" tvg-id="moviesphereNZ" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/ptms/logos/default.png" tvg-chno="12" group-title="Movies",MovieSphereNZ
+#EXTINF:-1 channel-id="moviesphereNZ" tvg-id="moviesphereNZ" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/ptms/logos/default.png" group-title="Movies",MovieSphereNZ
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -112,7 +105,7 @@ https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-ptms.m3u8
 
-#EXTINF:-1 channel-id="moviesphereAU" tvg-id="moviesphereAU" tvg-logo="https://i.imgur.com/h1ejU90.png" tvg-chno="13" group-title="Movies",MovieSphereAU
+#EXTINF:-1 channel-id="moviesphereAU" tvg-id="moviesphereAU" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphereAU
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS26.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -120,7 +113,7 @@ https://i.mjh.nz/.r/sky-ptms.m3u8
 #EXTVLCOPT:http-referrer=
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 
-#EXTINF:-1 channel-id="moviesphereUS" tvg-id="moviesphereUS" tvg-logo="https://lionsgatechannels.com/assets/img/moviesphere/movie-sphere-large-logo.png" tvg-chno="14" group-title="Movies",MovieSphereUS
+#EXTINF:-1 channel-id="moviesphereUS" tvg-id="moviesphereUS" tvg-logo="https://lionsgatechannels.com/assets/img/moviesphere/movie-sphere-large-logo.png" group-title="Movies",MovieSphereUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
