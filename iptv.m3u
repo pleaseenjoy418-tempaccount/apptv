@@ -6,7 +6,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=108.179.34.214
+#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=132.145.108.223
 #EXTVLCOPT:http-referrer=
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
@@ -14,7 +14,7 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=108.179.34.214
+#KODIPROP:inputstream.adaptive.common_headers=X-Forwarded-For=132.145.108.223
 #EXTVLCOPT:http-referrer=
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
@@ -26,7 +26,7 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTVLCOPT:http-referrer=
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="US004" tvg-id="US004" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-chno="4" group-title="US",Nickelodeon PlutoTV
+#EXTINF:-1 channel-id="US004" tvg-id="US004" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-chno="4" group-title="US",WORKING.Nickelodeon PlutoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
@@ -34,7 +34,7 @@ https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 
-#EXTINF:-1 channel-id="US005" tvg-id="US005" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/500px-Discovery_Turbo_logo.svg.png" tvg-chno="5" group-title="US",Discovery Turbo
+#EXTINF:-1 channel-id="US005" tvg-id="US005" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/500px-Discovery_Turbo_logo.svg.png" tvg-chno="5" group-title="US",WORKING.Discovery Turbo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
